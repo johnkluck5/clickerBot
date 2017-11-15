@@ -10,7 +10,8 @@ import java.awt.Robot;
 public class ClickBot {
     
     public static int mask = InputEvent.BUTTON1_MASK;
-    public static int exitClick = InputEvent.BUTTON2_MASK;
+    //work in progress
+    //public static int exitClick = InputEvent.BUTTON2_MASK;
 
     public static void main(String[] args){
         
